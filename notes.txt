@@ -1,0 +1,7 @@
+we going to use:
+fire base
+redux
+react on our dom
+react slick
+styled components : styled components are nothing but css within javascript
+vs code
